@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi, e aí!? 👋
+
+Sou um programador brasileiro iniciante e bastante interessado em tecnologia e programação, prazer!
 
 <!--
 **budes/budes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
