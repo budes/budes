@@ -1,8 +1,8 @@
-### Oi, e aí!? 👋
+# Oi, e aí!? 👋
 
 Sou um programador brasileiro iniciante e bastante interessado em tecnologia e programação, prazer!
 
-### Minhas estatisticas atuais no github
+# Minhas estatisticas atuais no github
 ![budes's github stats](https://github-readme-stats.vercel.app/api?username=budes&include_all_commits=true&custom_title=budes%20stats&show_icons=true&hide=contribs)
 
 <!--
