@@ -66,8 +66,10 @@
 </div>
 
 ###
+
 <h2 align="left"></h2>
 
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=budes&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
@@ -75,8 +77,11 @@
 </div>
 
 ###
+
 <h2 align="left"></h2>
 
+###
+ 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/budes/budes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
