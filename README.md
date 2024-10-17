@@ -63,7 +63,8 @@
         <ul>
           <li> Computer Science - UFCG - 2024.1 </li> 
           <li> Competitive Programming </li> 
-          <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" /> </li>
+          <li> Java </li>
+          <li> Mathematics - Calculus I </li>
       </td>
     </tr>
   </table>  
