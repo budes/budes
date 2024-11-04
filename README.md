@@ -64,7 +64,8 @@
           <li> Computer Science - UFCG - 2024.1 </li> 
           <li> Competitive Programming </li> 
           <li> Java </li>
-          <li> Mathematics - Calculus I </li>
+          <li> Math - Calculus I </li>
+          <li> C++ </li>
       </td>
     </tr>
   </table>  
